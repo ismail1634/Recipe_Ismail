@@ -1,0 +1,8 @@
+h2 {
+  background-color: #607d8b;
+  color: #ffffff;
+}
+img {
+  width: 300px;   /* genişlik */
+  height: auto;   /* oran korunsun */
+}
